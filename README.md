@@ -1,5 +1,5 @@
 # Komputasi_Numerik
-# Nama Kelompok :
+### Nama Kelompok :
 
 1. Muhammad Adib Syambudi (5025211017)
 2. Ilham Insan Wafi (5025211255)
