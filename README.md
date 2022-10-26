@@ -9,13 +9,14 @@ Dengan menggunakan dua library dari phython yaitu numpy dan matplotlib. Variabel
 
 Kemudian langkah-langkah algoritma bolzano sebagai berikut :
 
-Mengecek fungsi dengan batas bawah dikali dengan batas atas. Jika hasilnya positif maka hasil terdapat pada rentang yang dimasukkan,
-Perulangan proses selama memiliki nilai error diatas nilai toleransi.
-Menggunakan rumus xr = (xl + xu )/2
-Mencetak nilai dari xr.
-Mengubah nilai error dengan rumus nilai mutlak dari ((xr - xr_lama)/xr) * 100
-Jika hasil dimasukkan ke fungsi dikali dengan batas atas bernilai negatif, maka xr menjadi batas bawah. Selain itu, maka xr menjadi batas atas.
-Proses yang diulang adalah NO 3 sampe 6.
-Menggambar grafik dengan menggunakan plot dengan memasukkan xlist dan ylist.
-Menggeser garis sumbu x ke tengah dan memberi judul.
-Menampilkan grafik fungsi
+1. Mengecek fungsi dengan batas bawah dikali dengan batas atas. Jika hasilnya positif maka hasil terdapat pada rentang yang dimasukkan,
+2. Perulangan proses selama memiliki nilai error diatas nilai toleransi.
+3. Menggunakan rumus xr = (xl + xu )/2
+4. Mencetak nilai dari xr.
+5. Mengubah nilai error dengan rumus nilai mutlak dari ((xr - xr_lama)/xr) * 100
+6. Jika hasil dimasukkan ke fungsi dikali dengan batas atas bernilai negatif, maka xr menjadi batas bawah. Selain itu, maka xr menjadi batas atas.
+7. Proses yang diulang adalah NO 3 sampe 6.
+8. Menggambar grafik dengan menggunakan plot dengan memasukkan xlist dan ylist.
+9. Menggeser garis sumbu x ke tengah dan memberi judul.
+10. Menampilkan grafik fungsi
+
