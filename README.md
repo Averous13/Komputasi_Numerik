@@ -4,6 +4,7 @@
 1. Muhammad Adib Syambudi (5025211017)
 2. Ilham Insan Wafi (5025211255)
 3. Yusna Millaturrosyidah (5025211254)
+
 Dengan menggunakan dua library dari phython yaitu numpy dan matplotlib. Variabel yang digunakan a,b,c,d untuk variabel pada fungsi. Kemudian xl adalah input batas bawah dan xu adalah input batas atas. Terdapat juga variabel error dan toleransi, dimana kedua variabel ini digunakan sebagai acuan berjalan iterasi. Kemudian menyimpan titik-titik x pada xlist dan hasil perhitungan fungsi x ke dalam ylist.
 
 Kemudian langkah-langkah algoritma bolzano sebagai berikut :
