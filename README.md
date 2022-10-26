@@ -20,3 +20,4 @@ Kemudian langkah-langkah algoritma bolzano sebagai berikut :
 9. Menggeser garis sumbu x ke tengah dan memberi judul.
 10. Menampilkan grafik fungsi
 
+![Gambar proses run dari code](Screensho 720.png)
