@@ -20,4 +20,4 @@ Kemudian langkah-langkah algoritma bolzano sebagai berikut :
 9. Menggeser garis sumbu x ke tengah dan memberi judul.
 10. Menampilkan grafik fungsi
 
-![Gambar proses run dari code](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkabunan-taman.desa.id%2F2017%2F01%2Fperdes-nomor-3%2Fdownload-gambar-logo-garuda-pancasila%2F&psig=AOvVaw3KpdxY6EnTnjw2varHir-c&ust=1666883224252000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCPC744SW_voCFQAAAAAdAAAAABAE)
+![Gambar proses run dari code](https://drive.google.com/drive/folders/1QaCLqI3DxnsRSRZJxYApUjEeOo_o_ISd/Screenshot720.png)
